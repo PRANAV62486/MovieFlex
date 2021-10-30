@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--only change required colors other will remain same and default colors will auto handle by
+    material theme(you can also specify default colors in style.xml)
+
+    on the place of special file of colors for night mode you can also create style file or both file
+    -->
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F5B344</color>
+
+    <color name="bgc">#000000</color>
+    <color name="card_bg">#1E1D1D</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Flex</string>
+
+    <!--BOTTOM NAVIGATION-->
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+
+    <!--Search bar-->
+    <string name="search">Search</string>
+
+    <string name="poster_prefix_url">https://image.tmdb.org/t/p/w342</string>
+    <string name="backdrop_prefix_url">https://image.tmdb.org/t/p/original</string>
+    <string name="now_playing_url">https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed</string>
+    <string name="top_rated_url">https://api.themoviedb.org/3/movie/top_rated?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
